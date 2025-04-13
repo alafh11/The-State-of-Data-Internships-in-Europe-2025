@@ -1,3 +1,5 @@
+-- Run this script in the PostgreSQL query tool to initialize the database schema.
+
 CREATE TABLE countries (
     country_id SERIAL PRIMARY KEY,
     country_name VARCHAR(100) UNIQUE NOT NULL
