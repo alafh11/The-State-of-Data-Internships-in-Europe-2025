@@ -19,4 +19,4 @@ This project collects, cleans, analyzes, and visualizes data-related internship 
 #### Setup
 - Clone repo
 - Configure .env
-- Initialize DB:
+- Initialize DB
