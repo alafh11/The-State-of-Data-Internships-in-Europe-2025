@@ -16,7 +16,3 @@ This project collects, cleans, analyzes, and visualizes data-related internship 
 - Power BI Desktop
 - Packages: pandas, psycopg2
 
-#### Setup
-- Clone repo
-- Configure .env
-- Initialize DB
