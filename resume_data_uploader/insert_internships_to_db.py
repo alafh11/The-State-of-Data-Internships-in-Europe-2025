@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import psycopg2
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\Alaa\Desktop\DataInternEu\cleaned_data_internships_eu.csv")
+df = pd.read_csv(filepath)
 
 load_dotenv()
 
